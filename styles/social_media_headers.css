@@ -1,0 +1,122 @@
+.social-media-links {
+top: 0px;
+right: 0px;
+left: 0px;
+position: fixed;
+margin-top: 3%;
+left: 3%;
+color: white;
+font-size: 12px;
+font-family: Roboto, Arial;
+z-index: 1000;
+}
+
+.social-media-links img {
+    height: 15px;
+}
+
+.linkedin-link {
+    border-width: 1px;
+    border-color: lightpink;
+    border-style: solid;
+    width: 100px;
+    transition: 0.25s;
+}
+.linkedin-icon {
+    display: inline;
+    margin-top: 3px;
+    margin-left: 5px;
+    margin-right: 6px;
+}
+.linkedin-text {
+    display: inline;
+    color: white;
+    transition: 0.25s;
+}
+.linkedin-link:hover {
+    background-color: lightpink;
+    transition: 0.25s;
+}
+.linkedin-text:hover {
+    color: rgb(0, 191, 255);
+    transition: 0.25s;
+}
+
+
+.github-link {
+    border-width: 1px;
+    border-color: lightblue;
+    border-style: solid;
+    width: 100px;
+    transition: 0.25s;
+}
+.github-icon {
+    display: inline;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.github-text {
+    display: inline;
+    color: white;
+    transition: 0.25s;
+}
+.github-link:hover {
+    background-color: lightblue;
+    transition: 0.25s;
+}
+.github-text:hover{
+    color: rgb(255, 143, 159);
+    transition: 0.25s;
+}
+
+.twitter-link {
+    border-width: 1px;
+    border-color: lightpink;
+    border-style: solid;
+    width: 100px;
+    transition: 0.25s;
+}
+.twitter-icon {
+    display: inline;
+    margin-left: 5px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.twitter-text {
+    display: inline;
+    color: white;
+}
+.twitter-link:hover {
+    background-color: lightpink;
+    transition: 0.25s;
+}
+.twitter-text:hover {
+    color: rgb(0, 191, 255);
+    transition: 0.25s;
+}
+
+.facebook-link {
+    border-width: 1px;
+    border-color: lightblue;
+    border-style: solid;
+    width: 100px;
+    transition: 0.25s;
+}
+.facebook-icon {
+    display: inline;
+    margin-top: 2px;
+}
+.facebook-text {
+    display: inline;
+    color: white;
+    transition: 0.25s;
+}
+.facebook-link:hover {
+    background-color: lightblue;
+    transition: 0.25s;
+}
+.facebook-text:hover {
+    color: rgb(255, 143, 159);
+    transition: 0.25s;
+}

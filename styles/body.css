@@ -1,0 +1,122 @@
+.description {
+    display: grid;
+    grid-template-columns: 400px;
+    grid-auto-rows: 60px;
+    grid-gap: 20px;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    color: rgb(212, 150, 150);
+    font-weight: bold;
+}
+
+.description h1 {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    margin-left: 110px;
+    background-color: rgba(0, 0, 0, 0.623);
+    height: 50px;
+    width: 160px;
+}
+
+
+.description p {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.603);
+    width: 100%;
+    height: 440px;
+}
+
+.pic-me1 {
+    position: absolute; 
+    margin-left: 130%;
+    margin-top: 10%;
+    width: 450px;
+}
+
+.description2 {
+    display: grid;
+    grid-template-columns: 400px;
+    grid-auto-rows: 60px;
+    grid-gap: 20px;
+    position: absolute;
+    top: 160%;
+    left: 60%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.description2 h1 {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    margin-left: -100px;
+    background-color: rgba(0, 0, 0, 0.329);
+    height: 60px;
+    width: 575px;
+    padding: 3px;
+}
+
+.description2 p {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.404);
+    width: 100%;
+    height: 622px;
+}
+
+.pic-me2 {
+    position: absolute; 
+    margin-left: -600px;
+    margin-top: 25%;
+    width: 450px;
+}
+
+.description3 {
+    display: grid;
+    grid-template-columns: 400px;
+    grid-auto-rows: 60px;
+    grid-gap: 20px;
+    position: absolute;
+    top: 295%;
+    left: 46%;
+    color: rgb(103, 220, 255);
+    font-weight: bold;
+}
+
+.description3 h1 {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    margin-left: -100px;
+    background-color: rgba(0, 0, 0, 0.473);
+    height: 50px;
+    width: 377px;
+}
+
+.description3 p {
+    align-items: center;
+    justify-items: center;
+    z-index: 100;
+    width: 290px;
+    height: 220px;
+    margin-left: -60px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.541) ;
+}
+
+.pic-me3 {
+    height: 400px;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+.pic-me4 {
+    height: 400px;
+    margin-left: -550px;
+    margin-top: -280px;
+}
