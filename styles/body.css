@@ -34,7 +34,7 @@
     position: absolute; 
     margin-left: 130%;
     margin-top: 10%;
-    width: 450px;
+    width: 560px;
 }
 
 .description2 {
@@ -72,7 +72,7 @@
 .pic-me2 {
     position: absolute; 
     margin-left: -700px;
-    margin-top: 35%;
+    margin-top: 270px;
     width: 600px;
 }
 
@@ -119,4 +119,11 @@
     height: 400px;
     margin-left: -550px;
     margin-top: -280px;
+}
+
+.pic-me5 {
+    position: absolute; 
+    margin-left: -750px;
+    margin-top: -200px;
+    width: 600px;
 }
